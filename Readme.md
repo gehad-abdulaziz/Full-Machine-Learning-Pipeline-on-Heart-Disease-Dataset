@@ -104,5 +104,6 @@ Gehad Abdulaziz
 Email: gehadabdelaziz179@example.com  
 
 GitHub: https://github.com/gehad-abdulaziz  
+Linkedin: https://www.linkedin.com/in/gehad-abdulaziz-228973287/
 
 ### This project represents my very first experience in machine learning, and I’m excited to continue learning and improving.
