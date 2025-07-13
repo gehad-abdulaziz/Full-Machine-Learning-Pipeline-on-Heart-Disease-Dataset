@@ -47,7 +47,7 @@ Number of major vessels colored by fluoroscopy (ca)
 Model
 Pipeline includes data scaling, feature selection, PCA dimensionality reduction, and classification using Random Forest.
 
-Achieved accuracy: ~60% (adjust based on your final results)
+Achieved accuracy: ~62.4% (adjust based on your final results)
 
 Precision, Recall, and F1 Score are detailed in results/evaluation_metrics.txt
 
