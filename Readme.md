@@ -9,6 +9,7 @@ This project aims to build a machine learning model to predict the risk of heart
 - Source: UCI Machine Learning Repository
 
 ## Project Structure
+# Project Structure
 
 Heart_Disease_Project/
 │
@@ -46,7 +47,8 @@ Heart_Disease_Project/
 ├── README.md
 └── .gitignore
 
-=
+
+
 ## How to Run
 
 1. **Install dependencies**  
