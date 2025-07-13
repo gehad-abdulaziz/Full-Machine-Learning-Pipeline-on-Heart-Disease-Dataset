@@ -8,46 +8,6 @@ This project aims to build a machine learning model to predict the risk of heart
 - Number of features used: 13 clinical features plus target variable
 - Source: UCI Machine Learning Repository
 
-## Project Structure
-'''
-Heart_Disease_Project/
-│
-├── data/
-│ ├── processed_heart.csv
-│ ├── selected_features.csv
-│ ├── selected_features_scaled.csv
-│ └── ...
-│
-├── notebooks/
-│ ├── 01_data_preprocessing.ipynb
-│ ├── 02_feature_selection.ipynb
-│ ├── 03_pca_analysis.ipynb
-│ ├── 04_supervised_learning.ipynb
-│ ├── 05_unsupervised_learning.ipynb
-│ ├── 06_hyperparameter_tuning.ipynb
-│ └── ...
-│
-├── models/
-│ ├── best_model_pipeline.pkl
-│ └── final_model.pkl
-│
-├── ui/
-│ └── app.py # Streamlit application
-│
-├── deployment/
-│ └── ngrok_setup.txt # Instructions for deployment tunnel
-│
-├── results/
-│ ├── evaluation_metrics.txt
-│ ├── roc_curves.png
-│ └── clustering_plots.png
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
-
-'''
-
 ## How to Run
 
 1. **Install dependencies**  
