@@ -55,7 +55,7 @@ Notes
 The dataset is moderately imbalanced; SMOTE oversampling is applied during training.
 
 Hyperparameter tuning is performed using GridSearchCV for best model parameters.
-### "The current model shows moderate accuracy but relatively low precision, recall, and F1 scores, especially for some classes. This indicates that the model may not be highly reliable for critical decision-making and should be improved further before deployment.
+### The current model shows moderate accuracy but relatively low precision, recall, and F1 scores, especially for some classes. This indicates that the model may not be highly reliable for critical decision-making and should be improved further before deployment.
 
 
 Author  :
